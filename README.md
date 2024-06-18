@@ -7,6 +7,7 @@ Jarvis is an advanced AI assistant designed to streamline and enhance your daily
   + [Vision](https://github.com/MIDHUN-REDDY/JARVIS-AI-ASSISTANT/tree/main#vision)
   + [Technologies](https://github.com/MIDHUN-REDDY/JARVIS-AI-ASSISTANT/tree/main#technologies)
   + [Future Development](https://github.com/MIDHUN-REDDY/JARVIS-AI-ASSISTANT/tree/main#future-development)
+  + [Code Structure](https://github.com/MIDHUN-REDDY/JARVIS-AI-ASSISTANT/tree/main#code-structure)
 
 # Overview
 Jarvis acts as a personal assistant, capable of performing a multitude of tasks that can help improve productivity and efficiency. Whether it's managing your schedule, setting reminders, sending messages, or retrieving information from the web, Jarvis is designed to make your life easier.
@@ -30,3 +31,8 @@ Voice Recognition: Provides the capability for voice-based interaction, enhancin
 
 # Future Development
 Future enhancements for Jarvis include expanding its skill set, improving natural language understanding capabilities, and integrating with more third-party services to offer a broader range of functionalities. The goal is to continually refine and expand Jarvis to meet evolving user needs and technological advancements.
+
+# Code Structure
++ index.html: HTML structure of the project.
++ styles.css: CSS styles for the project.
++ script.js: JavaScript code for interactivity.
