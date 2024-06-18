@@ -2,11 +2,11 @@
 Jarvis is an advanced AI assistant designed to streamline and enhance your daily activities through intelligent automation and information retrieval. Leveraging cutting-edge machine learning and natural language processing technologies, Jarvis can understand and respond to a variety of commands and queries, providing a seamless user experience.
 
 # Table Of Content
-  . [Overview](Overview)
-  . [Key Features](KeyFeatures)
-  . [Vision](Vision)
-  . [Technologies](Technologies)
-  . [Future Development](FutureDevelopment)
+  + [Overview](https://github.com/MIDHUN-REDDY/JARVIS-AI-ASSISTANT/tree/main#overview)
+  + [Key Features](KeyFeatures)
+  + [Vision](Vision)
+  + [Technologies](Technologies)
+  + [Future Development](FutureDevelopment)
 
 # Overview
 Jarvis acts as a personal assistant, capable of performing a multitude of tasks that can help improve productivity and efficiency. Whether it's managing your schedule, setting reminders, sending messages, or retrieving information from the web, Jarvis is designed to make your life easier.
